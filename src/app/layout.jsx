@@ -1,3 +1,4 @@
+import "../styles/globals.css";
 export const metadata = { title: "Event Squad", description: "Simple clean start" };
 
 import "../styles/globals.css";
